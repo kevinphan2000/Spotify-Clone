@@ -1,0 +1,16 @@
+Spotify Clone 
+What you'll be learning & what's in this this build 
+
+* User authentication
+* Spotify API
+* Responsive Design
+* Material UI (icons)
+* React Context API (*Redux)
+
+
+
+Client ID: f725a4e0e25845cab3ec0feab7f1c389
+Current Time: 2:22:53
+
+
+Learn Recoil

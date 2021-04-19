@@ -1,0 +1,47 @@
+
+
+The confidence interval (CI) is a range of values that includes a population value with a 
+certain degree of confidence. It is expressed a % whereby a population means lies between 
+an upper and lower interval
+
+The 95% confidence interval is a range of values that you can be 95% certain contains the true 
+mean of the population. As the sample size increases, the range of interval values will narrow
+The mean with more accuracy compared with a smaller sample.
+
+There is 5% chance that the population mean lies outside of upper and lower confidence interval
+
+
+Why do researcher use confidence intervals?
+
+selecting sample or subgroup of the population
+
+The researcher can estimate the parameters of a population, the estimated range being calculated
+from a given set of sample data. 
+The confidnece interval is to measeure how well the sample represent the population 
+
+Two factor affecting the result: the sample size, the amount of vairiation in data -> variation can influence the design of sample survey
+
+E(y) = mill and E(Ny) = T 
+
+SRS:
+a sample of size n is drawn from a population of size N such that every sample of size n has
+the same chance of being selected. The sample is called a simple random sample
+
+
+
+Startified > Systematic > Simple > Cluster
+
+Stratified sample all sample elements within a group (homomogenous): separaring the population elements into groups, 
+strate and each element in one stratum and independently selecting a SRS 
+for each stratum. Advantages:
+- variance is reduced 
+- the cost of collecting is reduced 
+- seperate estimates obtained for individual strata 
+
+
+Cluster sample few cluster parts group include all element in a group (not homomgenous)
+
+Systematic sampling is alternative to simple rrandom sampling. eaiser to perform less subjecy to interviewer errors than SRS. 
+Provide more information per unit cost
+
+
